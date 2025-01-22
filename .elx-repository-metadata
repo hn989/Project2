@@ -1,0 +1,59 @@
+[
+  {
+    "path" : "/Project2",
+    "tags" : [
+    ],
+    "acl" : [
+      {
+        "by" : "role-678f45dd819c9613e22955d3",
+        "write" : true
+      }
+    ]
+  },
+  {
+    "path" : "/Project2/GHI",
+    "tags" : [
+    ],
+    "acl" : [
+    ]
+  },
+  {
+    "path" : "/Project2/GHI/ghi.ds",
+    "tags" : [
+    ],
+    "acl" : [
+    ],
+    "lastModified" : 1737515143905
+  },
+  {
+    "path" : "/Project2/GHI/reportG.rml",
+    "tags" : [
+    ],
+    "acl" : [
+    ],
+    "lastModified" : 1737515229997
+  },
+  {
+    "path" : "/Project2/JKL",
+    "tags" : [
+    ],
+    "acl" : [
+    ]
+  },
+  {
+    "path" : "/Project2/JKL/jkl.ds",
+    "tags" : [
+    ],
+    "acl" : [
+    ],
+    "lastModified" : 1737515168231
+  },
+  {
+    "path" : "/Project2/JKL/reportJ.rml",
+    "tags" : [
+    ],
+    "acl" : [
+    ],
+    "lastModified" : 1737515201097
+  }
+]
