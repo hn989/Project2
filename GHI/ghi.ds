@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ds:datasource xmlns:ds="http://www.elixirtech.com/DataSource" name="ghi" type="MongoDB" path="/Project2/GHI/abc.ds" description="">
+  <ds:parameter-cache />
+  <ds:schema case-sensitive="Yes">
+    <ds:column name="_id" type="String" />
+    <ds:column name="firstName" type="String" />
+    <ds:column name="identifier" type="Long" />
+    <ds:column name="lastName" type="String" />
+    <ds:column name="username" type="String" />
+  </ds:schema>
+  <ds:mongodb pool="data-decrypt-kmip" collection="default" />
+  <ds:security name="" />
+</ds:datasource>
+
